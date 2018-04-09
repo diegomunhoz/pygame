@@ -1,12 +1,3 @@
-"""
-Sample Python/Pygame Programs
-Simpson College Computer Science
-http://programarcadegames.com/
-http://simpson.edu/computer-science/
-
-Explanation video: http://youtu.be/qbEEcQXw8aw
-"""
-
 import pygame
 import random
 

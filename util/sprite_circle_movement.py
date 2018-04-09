@@ -1,13 +1,3 @@
-"""
- Move a sprite in a circle.
-
- Sample Python/Pygame Programs
- Simpson College Computer Science
- http://programarcadegames.com/
- http://simpson.edu/computer-science/
-
-"""
-
 import pygame
 import random
 import math
