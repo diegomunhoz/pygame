@@ -1,14 +1,3 @@
-"""
-Show the proper way to organize a game using the a game class.
-
-Sample Python/Pygame Programs
-Simpson College Computer Science
-http://programarcadegames.com/
-http://simpson.edu/computer-science/
-
-Explanation video: http://youtu.be/O4Y5KrNgP_c
-"""
-
 import pygame
 import random
 
